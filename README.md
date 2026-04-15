@@ -7,7 +7,7 @@
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white)
 
 ## 📌 Project Overview
-End-to-end analytics platform for a multinational retail company migrating from legacy Excel systems to Microsoft Fabric. Built as part of the MS Fabric Elite Architect Bootcamp.
+End-to-end analytics platform for a multinational retail company migrating from legacy Excel systems to Microsoft Fabric.
 
 **Sector:** Retail | **Dataset:** Kaggle Real Retail Sales Data | **Scale:** 10M+ revenue, 19 countries
 
