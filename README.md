@@ -9,7 +9,7 @@
 ## 📌 Project Overview
 End-to-end analytics platform for a multinational retail company migrating from legacy Excel systems to Microsoft Fabric.
 
-**Sector:** Retail | **Dataset:** Kaggle Real Retail Sales Data | **Scale:** 10M+ revenue, 19 countries
+**Sector:** Retail | **Dataset:** Real Retail Sales Data | **Scale:** 10M+ revenue, 19 countries
 
 ---
 
